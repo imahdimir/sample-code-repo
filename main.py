@@ -9,7 +9,6 @@ from githubdata import GithubData
 
 
 def main():
-
     pass
 
     ##
@@ -25,7 +24,6 @@ if __name__ == "__main__":
 ##
 # noinspection PyUnreachableCode
 if False:
-
     pass
 
     ##
